@@ -1,3 +1,2 @@
 # python_bart_assignment
-Assignment for Starbutter AI intership applicants.
-Please use python3.
+Very simple webhook that outputs the time of the nearest train that is leaving a particular Bart station. Returns a JSON of the spoken and displayed response. 
